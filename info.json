@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "94c44233d7c4ce3dca1d923c254a14d2f8f6a45d",
+    "author": "hettling <hannes.hettling@gmail.com>",
+    "time": "2021-02-25 00:14:57",
+    "files": 1,
+    "merge": false,
+    "message": "remove pkgdown drom deps"
+  },
+  "remote": "https://github.com/ropensci/nbaR",
+  "pkg": "nbaR"
+}
